@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "boyokeencok.biz.id"; // Ganti dengan domain utama kalian
+const rootDomain = "infopromosiindomaret1.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "akunvpn"; // Ganti dengan nama workers kalian
 const apiKey = "RILC_i_n_Maw3pNE6iLn_hriqDVqLEwBPQH9lSv_"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "Infopromosiindomaret1@gmail.com"; // Ganti dengan email yang kalian gunakan
